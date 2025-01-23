@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gursimar, an <a href="https://www.linkedin.com/in/gursimar-jawanda-b36369304/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gursimar, a <a href="https://www.linkedin.com/in/gursimar-jawanda-b36369304/">Tech-Driven Graduate</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
